@@ -1,4 +1,3 @@
 -	Plátano
 -	Manzana
 -	Pera
--	Sandía
